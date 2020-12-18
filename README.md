@@ -2,7 +2,7 @@
 
 ## Source code
 Problems that you can absorb with reference types
-- reference_based.playground
+- reference_based.playground -> Contents.swift
 
 How you can solve these problems in Swift using value types
-- value_based.playground
+- value_based.playground -> Contents.swift
